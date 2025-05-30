@@ -12,16 +12,6 @@ header, nav, footer {
   padding: 1rem;
 }
 
-nav a {
-  color: white;
-  text-decoration: none;
-  margin: 0 15px;
-}
-
-nav a:hover {
-  text-decoration: underline;
-}
-
 nav {
   display: flex;
   justify-content: center;
